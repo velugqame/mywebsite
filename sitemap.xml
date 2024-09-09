@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://velugqame.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://velugqame.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://velugqame.github.io/mywebsite/musical-muses-of-the-month.html</loc>
+<lastmod>2024-09-06T10:32:07+02:00</lastmod>
+<image:image>
+<image:loc>https://velugqame.github.io/mywebsite/media/posts/1/FLO-album-picture.jpg</image:loc>
+<image:title><![CDATA[FLO album picture]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://velugqame.github.io/mywebsite/media/posts/1/FLO-London-Live.webp</image:loc>
+<image:title><![CDATA[Flo Live in London]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://velugqame.github.io/mywebsite/the-musical-maestros.html</loc>
+<lastmod>2024-09-06T10:31:43+02:00</lastmod>
+<image:image>
+<image:loc>https://velugqame.github.io/mywebsite/media/posts/2/RandB-in-the-1940s-and-50s.webp</image:loc>
+<image:title><![CDATA[R&amp;B Live Performances from 1940s to 1950s]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://velugqame.github.io/mywebsite/media/posts/2/Usher-BET-Awards.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

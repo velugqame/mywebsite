@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://velugqame.github.io/mywebsite/sitemap.xml
